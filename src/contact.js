@@ -8,6 +8,7 @@ export default function contact(){
     <input type="email" placeholder="email" id="email">
     <label for="phone">Phone</label>
     <input type="tel" placeholder="Phone" id="phone">
+    <input type="submit" value="Enviar!">
   `;
   return form;
 }
